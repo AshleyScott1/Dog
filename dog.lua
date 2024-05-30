@@ -211,7 +211,7 @@ local ORE_DICT = {
   -- ## BASE ORES ##
   ["minecraft:iron_ore"] = true,
   ["minecraft:deepslate_iron_ore"] = true,
-  ["minecraft:copper_ore"] = true,
+  ["minecraft:copper_ore"] = false,
   ["minecraft:deepslate_copper_ore"] = true,
   ["minecraft:gold_ore"] = true,
   ["minecraft:deepslate_gold_ore"] = true,
